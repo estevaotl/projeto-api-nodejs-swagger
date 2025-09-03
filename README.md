@@ -47,7 +47,7 @@ pnpm i @fastify/swagger @fastify/swagger-ui
 pnpm run dev
 ```
 
-> Após rodar `pnpm run dev`, a documentação já estará pronta para ser acessada pelo navegador
+> ⚠️ Após rodar `pnpm run dev`, a documentação já estará pronta para ser acessada pelo navegador
 
 ---
 
