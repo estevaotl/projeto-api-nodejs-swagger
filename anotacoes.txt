@@ -1,0 +1,8 @@
+instalação do pnpm: https://pnpm.io/pt/installation
+
+npm install -g pnpm@latest-10
+pnpm init
+pnpm i fastify fastify-type-provider-zod @fastify/cors zod
+pnpm i typescript @types/node tsx -D
+pnpm tsc --init
+pnpm i @fastify/swagger @fastify/swagger-ui
